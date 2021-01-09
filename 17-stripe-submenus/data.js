@@ -23,6 +23,6 @@ const sublinks = [
       { label: 'customers', icon: 'fas fa-briefcase', url: 'products.html' },
     ],
   },
-];
+]
 
-export default sublinks;
+export default sublinks
